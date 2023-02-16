@@ -23,7 +23,7 @@ Once you have an API token, you can run the bot locally by installing the necess
 
 bash
 Copy code
-- pip install -r requirements.txt
+### pip install -r requirements.txt
 python main.py
 Features
 The bot currently supports the following commands:
