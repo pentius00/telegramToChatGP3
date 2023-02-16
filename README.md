@@ -1,6 +1,8 @@
 # My Awesome Telegram Bot
-# telegramToChatGP3
+![bot](https://siamcomputing.com/wp-content/uploads/2022/05/Chatbot.png)
 
+
+# TelegramToChatGP3
 
 
 
