@@ -29,8 +29,14 @@ Features
 The bot currently supports the following commands:
 
 /start - starts the bot and displays a welcome message
+
+
 /help - displays a help message with a list of available commands
+
+
 /echo <message> - echoes the provided message back to the user
+
+
 Contributing
 If you would like to contribute to the project, you can fork the repository and submit a pull request. Any contributions are welcome!
 
