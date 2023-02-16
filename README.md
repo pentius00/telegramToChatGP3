@@ -23,18 +23,18 @@ Once you have an API token, you can run the bot locally by installing the necess
 
 bash
 Copy code
-pip install -r requirements.txt
+- pip install -r requirements.txt
 python main.py
 Features
 The bot currently supports the following commands:
 
-/start - starts the bot and displays a welcome message
+* /start - starts the bot and displays a welcome message
 
 
-/help - displays a help message with a list of available commands
+* /help - displays a help message with a list of available commands
 
 
-/echo <message> - echoes the provided message back to the user
+* /echo <message> - echoes the provided message back to the user
 
 
 Contributing
