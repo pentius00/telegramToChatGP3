@@ -1,8 +1,5 @@
+# My Awesome Telegram Bot
 # telegramToChatGP3
-This is a simple Telegram bot that echoes back messages sent to it. It's built using the Python telegram library and is connected to ChatGPT. It can be used as a starting point for building more complex Telegram bots
-
-
-
 
 
 
@@ -14,7 +11,7 @@ This project is built as a part of a learning exercise and is open source.
 
 
 
-# My Awesome Telegram Bot
+
 
 ## This is a simple Telegram bot built using the Telegram Bot API and the python-telegram-bot library. The bot is connected to ChatGPT, a large language model trained by OpenAI, and is capable of echoing back messages sent to it, except for commands.
 ### Getting Started
